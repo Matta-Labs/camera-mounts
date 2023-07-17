@@ -55,7 +55,7 @@
 </div>
 <br />
 
-At Matta, we use computer vision and AI to turbocharge 3D printing. Our work often results in the generation of printable hardware to allow cameras to be mounted to 3D printers.
+At <a href="https://matta.ai"><strong>Matta</strong></a>, we use computer vision and AI to turbocharge 3D printing. Our work often results in the generation of printable hardware to allow cameras to be mounted to 3D printers.
 <br />
 <br />
 We thought it would be helpful to the community to release these into the wild - and build an open source repository where new designs/improvements can be shared! 
