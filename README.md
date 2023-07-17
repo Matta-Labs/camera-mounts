@@ -81,7 +81,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Data Engine GIF][de-gif]](https://matta.ai/greymatta.com)
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `Matta-Labs`, `camera-mounts`, `mattaai`, `linkedin_username`, `hello_client`, `hello`, `Camera Mounts`, `A repository for sharing and collaborating on camera mounts for 3D printers.`
 
@@ -219,6 +219,6 @@ Project Link: [https://github.com/Matta-Labs/camera-mounts](https://github.com/M
 [license-url]: https://github.com/Matta-Labs/camera-mounts/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/mattaai
-[product-screenshot]: images/nozzle-cam-footage.gif
+[de-gif]: images/data-engine.gif
 [Fusion.360]: https://img.shields.io/badge/Autodesk-Fusion%20360-FC6E26?style=for-the-badge&logo=autodesk&logoColor=white
 [Fusion-url]: https://autodesk.com/products/fusion360/overview
