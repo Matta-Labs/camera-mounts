@@ -79,10 +79,13 @@ Cameras mounted on 3D printers can be incredibly useful for various purposes. Wh
 <!-- USAGE EXAMPLES -->
 ## Usage ⚡️
 
-The repo is broken-up into 3D printer brands. Navigate the repo to find your printer model, and browse the ReadMes for printing/installation instruction.
+The repo is broken-up into 3D printer brands. Navigate the repo to find your printer model, and browse the ReadMe's for printing/installation instruction. 
 <br />
 <br />
-
+📸 Print, install and enjoy! Please leave feedback in FEEDBACK.md file within each mount directory.
+<br />
+<br />
+All files should be accompanied by relevant documentation - raise an issue if not! 🚩
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
