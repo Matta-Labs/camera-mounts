@@ -34,7 +34,7 @@ A repository for sharing and collaborating on camera mounts for 3D printers.
 <br />
 <div align="center">
   <a href="https://github.com/Matta-Labs/camera-mounts">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/project-logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Camera Mounts</h3>
@@ -88,7 +88,7 @@ A repository for sharing and collaborating on camera mounts for 3D printers.
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `Matta-Labs`, `repo_name`, `mattaai`, `linkedin_username`, `hello_client`, `hello`, `Camera Mounts`, `A repository for sharing and collaborating on camera mounts for 3D printers.`
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `Matta-Labs`, `camera-mounts`, `mattaai`, `linkedin_username`, `hello_client`, `hello`, `Camera Mounts`, `A repository for sharing and collaborating on camera mounts for 3D printers.`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -128,7 +128,7 @@ This is an example of how to list things you need to use the software and how to
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/Matta-Labs/repo_name.git
+   git clone https://github.com/Matta-Labs/camera-mounts.git
    ```
 3. Install NPM packages
    ```sh
@@ -162,7 +162,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Feature 3
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/Matta-Labs/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Matta-Labs/camera-mounts/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -198,9 +198,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@mattaai](https://twitter.com/mattaai) - hello@matta.ai
+Matta AI - [@mattaai](https://twitter.com/mattaai) - hello@matta.ai
 
-Project Link: [https://github.com/Matta-Labs/repo_name](https://github.com/Matta-Labs/repo_name)
+Project Link: [https://github.com/Matta-Labs/camera-mounts](https://github.com/Matta-Labs/camera-mounts)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
