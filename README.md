@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Matta-Labs/camera-mounts">
-    <img src="images/project-logo.png" alt="Logo" width="80" height="80">
+    <img src="images/project-logo.jpg" alt="Logo" width="100" height="100">
   </a>
 
 <h3 align="center">Camera Mounts</h3>
