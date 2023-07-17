@@ -79,7 +79,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The Project ⚡️
 
 <div  align="center" >
   <img src="images/data-engine.gif" alt="Data engine" width="400" height="300">
@@ -92,7 +92,7 @@ At Matta, we are building AI to push the boundaries of manufacutring. We train n
 
 
 
-### Built With
+### Built With 🛠️
 
 * [![Fusion360][Fusion.360]][Fusion-url]
 
@@ -116,7 +116,7 @@ Camera requirments depend on particular mount - find more instructions on the mo
 • CAD package
 
 
-### Installation
+### Installation ⚙️
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
@@ -137,7 +137,7 @@ Camera requirments depend on particular mount - find more instructions on the mo
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Usage ⚡️
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
@@ -148,21 +148,22 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 <!-- ROADMAP -->
-## Roadmap
+## Roadmap 🚴🏼‍♂️
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] Nozzle mounts for wider range of printers brands
+  - [ ] Voron
+  - [ ] Ultimaker
+  - [ ] etc.
+- [ ] External, bed-facing camera mounts
 
-See the [open issues](https://github.com/Matta-Labs/camera-mounts/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Matta-Labs/camera-mounts/issues) for a full list of proposed mount designs (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Contributing 👏🏼
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -180,7 +181,7 @@ Don't forget to give the project a star! Thanks again!
 
 
 <!-- LICENSE -->
-## License
+## License 📄
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
@@ -189,7 +190,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 <!-- CONTACT -->
-## Contact
+## Contact 📞
 
 Matta AI - [@mattaai](https://twitter.com/mattaai) - hello@matta.ai
 
@@ -198,10 +199,13 @@ Project Link: [https://github.com/Matta-Labs/camera-mounts](https://github.com/M
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MORE ABOUT MATTA -->
-## More About Matta
+## More About Matta 🔷
 
-At Matta, we are building AI to push the boundaries of manufacutring. We train neural networks using vision to become 'manufacutring copilots', enabling next-generation error correction, material qualitification and part QC.
+<a href="https://matta.ai"><strong>www.matta.ai</strong></a>
 
+At Matta, we are building AI to push the boundaries of manufacturing. We train neural networks using vision to become 'manufacturing copilots', enabling next-generation error correction, material qualitification and part QC.
+
+<a href="https://matta.ai/greymatta"><strong>Check out our first-iteration AI, Grey-1</strong></a>
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
