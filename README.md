@@ -219,8 +219,6 @@ Project Link: [https://github.com/Matta-Labs/camera-mounts](https://github.com/M
 [license-url]: https://github.com/Matta-Labs/camera-mounts/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/mattaai
-[product-screenshot]: images/screenshot.png
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[product-screenshot]: images/nozzle-cam-footage.gif
 [Fusion.360]: https://img.shields.io/badge/Autodesk-Fusion%20360-FC6E26?style=for-the-badge&logo=autodesk&logoColor=white
 [Fusion-url]: https://autodesk.com/products/fusion360/overview
