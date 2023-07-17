@@ -39,8 +39,6 @@
   <p align="center">
     A repository for sharing and collaborating on camera mounts for 3D printers.
     <br />
-    <a href="https://github.com/Matta-Labs/camera-mounts"><strong>Explore the docs »</strong></a>
-    <br />
     <br />
     <a href="https://github.com/Matta-Labs/camera-mounts/issues">Report Problems</a>
     ·
@@ -86,11 +84,18 @@
 </div>
 <br />
 
-At Matta, we use computer vision and AI to turbocharge 3D printing. Our work often results in the generation of printable hardware to allow cameras to be mounted to 3D printers. We thought it would be helpful to the community to release these into the wild - and build an open source repository where new designs/improvements can be shared! 
+Welcome to the Matta's 3D Printer Camera Mounts GitHub repository! This project aims to provide a collection of camera mounts specifically for 3D printers. Attaching a camera to your printer allows for remote monitoring through OctoPrint or Klipper, time-lapse recording, and overall enhanced control of your printing processes.
+
+At Matta, we use computer vision and AI to turbocharge 3D printing. Our work often results in the generation of printable hardware to allow cameras to be mounted to 3D printers.
+<br />
+<br />
+We thought it would be helpful to the community to release these into the wild - and build an open source repository where new designs/improvements can be shared! 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Introduction 🏁
 
+Cameras mounted on 3D printers can be incredibly useful for various purposes. Whether you want to closely monitor your print progress, create stunning time-lapse videos, or remotely check on your printer's status, these 3D-printable camera mounts will come in handy. This repository serves as a hub for sharing various camera mount designs contributed by developers and designers in the community.
 
 ### Built With 🛠️
 
@@ -119,9 +124,9 @@ Camera requirments depend on particular mount - find more instructions in the mo
 <!-- USAGE EXAMPLES -->
 ## Usage ⚡️
 
-The repo is broken-up into 3D printer brands. Navigate the repo to find your printer model, and browse the ReadMes for printing/installation instruction. All camera mounts are 3
-
-_For more examples, please refer to the [Documentation](https://example.com)
+The repo is broken-up into 3D printer brands. Navigate the repo to find your printer model, and browse the ReadMes for printing/installation instruction.
+<br />
+<br />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -130,7 +135,7 @@ _For more examples, please refer to the [Documentation](https://example.com)
 <!-- ROADMAP -->
 ## Roadmap 🚴🏼‍♂️
 
-- [ ] Nozzle mounts for wider range of printers brands
+- [ ] Nozzle mounts for wider range of 3D printer brands
   - [ ] Voron
   - [ ] Ultimaker
   - [ ] etc.
@@ -147,7 +152,7 @@ See the [open issues](https://github.com/Matta-Labs/camera-mounts/issues) for a 
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-If you have any exisiting camera mounts you are willing to share with the community, please do! We want to create the largest set of open source camera mounting hardware 
+If you have any exisiting camera mounts you are willing to share with the community, please do! We want to create the largest open source repo of 3D printer camera mounts on the internet! 
 
 1. Fork the Project
 2. Create a Branch for your Contribution (`git checkout -b Ultimaker-S5`)
@@ -181,13 +186,10 @@ Project Link: [https://github.com/Matta-Labs/camera-mounts](https://github.com/M
 ## More About Matta 🔷
 
 <div  align="center" >
-  <img src="images/matta-about.png" alt="Data engine" width="400" height="300">
+  <img src="images/matta-about.png" alt="Data engine">
 </div>
 
-
-<a href="https://matta.ai"><strong>www.matta.ai</strong></a>
-
-At Matta, we are building AI to push the boundaries of manufacturing. We train neural networks using vision to become manufacturing copilots, enabling next-generation error correction, material qualitification and part QC.
+At <a href="https://matta.ai"><strong>Matta</strong></a>, we are building AI to push the boundaries of manufacturing. We train neural networks using vision to become manufacturing copilots, enabling next-generation error correction, material qualitification and part QC.
 
 <a href="https://matta.ai/greymatta"><strong>Check out our first-iteration AI, Grey-1</strong></a>
 
