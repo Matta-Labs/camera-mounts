@@ -81,7 +81,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Data Engine GIF][de-gif]](https://matta.ai/greymatta.com)
+<div  align="center" >
+  <img src="images/data-engine.gif" alt="Data engine" width="400" height="300">
+</div>
+<br />
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `Matta-Labs`, `camera-mounts`, `mattaai`, `linkedin_username`, `hello_client`, `hello`, `Camera Mounts`, `A repository for sharing and collaborating on camera mounts for 3D printers.`
 
