@@ -86,7 +86,7 @@
 </div>
 <br />
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `Matta-Labs`, `camera-mounts`, `mattaai`, `linkedin_username`, `hello_client`, `hello`, `Camera Mounts`, `A repository for sharing and collaborating on camera mounts for 3D printers.`
+At Matta, we are building AI to push the boundaries of manufacutring. We train neural networks using vision to become 'manufacutring copilots', enabling next-generation error correction, material qualitification and part QC.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -103,16 +103,18 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+#### Mount usage:
+Camera requirments depend on particular mount - find more instructions on the mount-specific readmes.
+• 3D printer
+• Slicer
+• Camera (module or endoscope)
+
+#### Contribution:
+
+• CAD package
+
 
 ### Installation
 
@@ -195,14 +197,16 @@ Project Link: [https://github.com/Matta-Labs/camera-mounts](https://github.com/M
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- MORE ABOUT MATTA -->
+## More About Matta
+
+At Matta, we are building AI to push the boundaries of manufacutring. We train neural networks using vision to become 'manufacutring copilots', enabling next-generation error correction, material qualitification and part QC.
 
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [Complex Additive Materials Group, University of Cambridge](https://github.com/cam-cambridge)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
