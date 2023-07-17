@@ -42,8 +42,6 @@
     <a href="https://github.com/Matta-Labs/camera-mounts"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Matta-Labs/camera-mounts">View Demo</a>
-    ·
     <a href="https://github.com/Matta-Labs/camera-mounts/issues">Report Problems</a>
     ·
     <a href="https://github.com/Matta-Labs/camera-mounts/issues">Request New Mounts!</a>
