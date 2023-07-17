@@ -86,7 +86,7 @@
 </div>
 <br />
 
-At Matta, we are building AI to push the boundaries of manufacutring. We train neural networks using vision to become 'manufacutring copilots', enabling next-generation error correction, material qualitification and part QC.
+At Matta, we use computer vision and AI to turbocharge 3D printing. Our work often results in the generation of printable hardware to allow cameras to be mounted to 3D printers. We thought it would be helpful to the community to release these into the wild - and build an open source repository where new designs/improvements can be shared! 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -101,12 +101,12 @@ At Matta, we are building AI to push the boundaries of manufacutring. We train n
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Getting Started 🚀
 
 ### Prerequisites
 
 #### Mount usage:
-Camera requirments depend on particular mount - find more instructions on the mount-specific readmes.
+Camera requirments depend on particular mount - find more instructions in the mount-specific readmes.
 • 3D printer
 • Slicer
 • Camera (module or endoscope)
@@ -116,32 +116,12 @@ Camera requirments depend on particular mount - find more instructions on the mo
 • CAD package
 
 
-### Installation ⚙️
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/Matta-Labs/camera-mounts.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- USAGE EXAMPLES -->
 ## Usage ⚡️
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+The repo is broken-up into 3D printer brands. Navigate the repo to find your printer model, and browse the ReadMes for printing/installation instruction. All camera mounts are 3
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://example.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -167,13 +147,12 @@ See the [open issues](https://github.com/Matta-Labs/camera-mounts/issues) for a 
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+If you have any exisiting camera mounts you are willing to share with the community, please do! We want to create the largest set of open source camera mounting hardware 
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create a Branch for your Contribution (`git checkout -b Ultimaker-S5`)
+3. Commit your Changes (`git commit -m 'Added nozzle mount for Ultimaker S5'`)
+4. Push to the Branch (`git push origin Ultimaker-S5`)
 5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -192,7 +171,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact 📞
 
-Matta AI - [@mattaai](https://twitter.com/mattaai) - hello@matta.ai
+Team Matta - [@mattaai](https://twitter.com/mattaai) - hello@matta.ai
 
 Project Link: [https://github.com/Matta-Labs/camera-mounts](https://github.com/Matta-Labs/camera-mounts)
 
@@ -201,9 +180,14 @@ Project Link: [https://github.com/Matta-Labs/camera-mounts](https://github.com/M
 <!-- MORE ABOUT MATTA -->
 ## More About Matta 🔷
 
+<div  align="center" >
+  <img src="images/matta-about.png" alt="Data engine" width="400" height="300">
+</div>
+
+
 <a href="https://matta.ai"><strong>www.matta.ai</strong></a>
 
-At Matta, we are building AI to push the boundaries of manufacturing. We train neural networks using vision to become 'manufacturing copilots', enabling next-generation error correction, material qualitification and part QC.
+At Matta, we are building AI to push the boundaries of manufacturing. We train neural networks using vision to become manufacturing copilots, enabling next-generation error correction, material qualitification and part QC.
 
 <a href="https://matta.ai/greymatta"><strong>Check out our first-iteration AI, Grey-1</strong></a>
 
