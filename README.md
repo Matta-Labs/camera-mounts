@@ -37,10 +37,10 @@ A repository for sharing and collaborating on camera mounts for 3D printers.
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Camera Mounts</h3>
 
   <p align="center">
-    project_description
+    A repository for sharing and collaborating on camera mounts for 3D printers.
     <br />
     <a href="https://github.com/Matta-Labs/camera-mounts"><strong>Explore the docs »</strong></a>
     <br />
@@ -88,7 +88,7 @@ A repository for sharing and collaborating on camera mounts for 3D printers.
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `Matta-Labs`, `repo_name`, `mattaai`, `linkedin_username`, `hello_client`, `hello`, `Camera Mounts`, `A repository for sharing and collaborating on camera mounts for 3D printers.`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -128,7 +128,7 @@ This is an example of how to list things you need to use the software and how to
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/Matta-Labs/repo_name.git
    ```
 3. Install NPM packages
    ```sh
@@ -162,7 +162,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Feature 3
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Matta-Labs/repo_name/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -198,9 +198,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Your Name - [@mattaai](https://twitter.com/mattaai) - hello@matta.ai
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/Matta-Labs/repo_name](https://github.com/Matta-Labs/repo_name)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -230,7 +230,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [license-shield]: https://img.shields.io/github/license/Matta-Labs/camera-mounts.svg?style=for-the-badge
 [license-url]: https://github.com/Matta-Labs/camera-mounts/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://www.linkedin.com/company/mattaai
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
