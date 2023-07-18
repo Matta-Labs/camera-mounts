@@ -41,9 +41,11 @@ Mount installation is simple - requiring no other components or tools! We recomm
 <p>
   <b>Slicing/Printing</b>
 
-  1. Sl
-  2. Step 2
-  3. Step 3...
+  1. Slice with normal or tree supports, with the cable holder flat against the bed.
+  <div><img src="images/slice.png" alt="Slicing orientation" width="400"></div>
+  2. We usually recommend a layer height of 0.2mm, and a brim for bed adhesion.
+  <br>
+  3. Print in ASA for longevity, but PLA works fine also.
   <br />
   <br />
 </p>
