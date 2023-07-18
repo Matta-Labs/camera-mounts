@@ -119,11 +119,24 @@ If you have any exisiting camera mounts you are willing to share with the commun
 <!-- ROADMAP -->
 ## Roadmap 🚴🏼‍♂️
 
-- [ ] Nozzle mounts for wider range of 3D printer brands
-  - [ ] Voron
-  - [ ] Ultimaker
-  - [ ] etc.
-- [ ] External, bed-facing camera mounts
+- [ ] Prusa
+  - [ ] i3 MK3S
+    - [x] Nozzle camera
+    - [ ] Bed camera
+
+- [ ] Creality
+  - [ ] Ender 3/Ender 3 Pro
+    - [x] Nozzle camera
+    - [ ] Bed camera
+  - [ ] CR-20
+    - [x] Nozzle camera
+    - [ ] Bed camera
+- [ ] Ultimaker
+- [ ] Voron
+- [ ] Raise3D
+- [ ] RatRig
+- [ ] Makerbot
+- [ ] BCN
 
 See the [open issues](https://github.com/Matta-Labs/camera-mounts/issues) for a full list of proposed mount designs (and known issues).
 
