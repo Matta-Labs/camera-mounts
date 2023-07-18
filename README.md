@@ -37,7 +37,7 @@
 <h3 align="center">Camera Mounts</h3>
 
   <p align="center">
-    Welcome to the Matta's 3D Printer Camera Mounts GitHub repository! This project aims to provide a collection of camera mounts specifically for 3D printers. Attaching a camera to your printer allows for remote monitoring through OctoPrint or Klipper, time-lapse recording, and overall enhanced control of your printing processes.
+    Welcome to the 3D Printer Camera Mounts GitHub repository! This project aims to provide a collection of camera mounts specifically for 3D printers. Attaching a camera to your printer allows for remote monitoring through OctoPrint or Klipper, time-lapse recording, and overall enhanced control of your printing processes.
     <br />
     <br />
     <a href="https://github.com/Matta-Labs/camera-mounts/issues">Report Problems</a>
