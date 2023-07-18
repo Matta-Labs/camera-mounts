@@ -51,9 +51,9 @@
 ## About The Project ⚡️
 
 <div  align="center" >
-  <img src="images/data-engine.gif" alt="Data engine" width="400" height="300">
-  <img src="images/mount_example.png" alt="Data engine" height="300">
-  <img src="images/CloseUp.gif" alt="Close-up" width="300" height="300">
+  <img src="images/data-engine.gif" alt="Data engine" height="200">
+  <img src="images/mount_example.png" alt="Data engine" height="200">
+  <img src="images/CloseUp.gif" alt="Close-up" width="300" height="200">
 </div>
 <br />
 
