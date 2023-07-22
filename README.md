@@ -73,7 +73,7 @@ Cameras mounted on 3D printers can be incredibly useful for various purposes. Wh
 
 ### Built With 🛠️
 
-* [![Fusion360][Fusion.360]][Fusion-url]
+[![Fusion360][Fusion.360]][Fusion-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
