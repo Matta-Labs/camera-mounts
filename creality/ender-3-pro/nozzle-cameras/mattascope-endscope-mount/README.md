@@ -61,6 +61,17 @@ Mount installation is simple - requiring no other components or tools! We recomm
   <br />
 </p>
 
+If used with the recommended endoscope, we have found the optimum focus value to be 530.
+
+Set this with ```sudo v4l2-ctl --set-ctrl focus_automatic_continuous=0``` & 
+```sudo v4l2-ctl --set-ctrl focus_absolute=530```
+
+<br/>
+
+If using a Raspberry Pi, you can ensure these commands run on boot, and therefore are saved by adding these two lines to ```/etc/rc.local``` with ```sudo nano /etc/rc.local``` from root.
+
+<br/>
+
 📸 Print, install and enjoy! Please leave feedback for this mount in the appropriate FEEDBACK.md file.
 
 
