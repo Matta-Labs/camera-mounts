@@ -36,7 +36,7 @@
 <!-- INSTALLATION -->
 ## Installation ⚡️
 
-Mount installation is simple - requiring no other components or tools! We recommend printing in ASA, to give better thermal resistance, but PLA also works.
+Mount installation is simple - requiring no other components or tools! We recommend printing in ASA, for thermal resistance - PLA will quickly warp due to the heat of the camera.
 
 <p>
   <b>Slicing/Printing</b>
