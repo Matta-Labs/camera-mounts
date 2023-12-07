@@ -119,16 +119,19 @@ If you have any exisiting camera mounts you are willing to share with the commun
 <!-- ROADMAP -->
 ## Roadmap 🚴🏼‍♂️
 
-- [ ] Prusa
-  - [ ] i3 MK3S
+- [x] Prusa
+  - [x] i3 MK3S
     - [x] Nozzle camera
     - [ ] Bed camera
 
-- [ ] Creality
-  - [ ] Ender 3/Ender 3 Pro
+- [x] Creality
+  - [x] Ender 3/Ender 3 Pro
     - [x] Nozzle camera
     - [ ] Bed camera
-  - [ ] CR-20
+  - [x] Ender S1
+    - [x] Nozzle camera
+    - [ ] Bed camera
+  - [x] CR-20
     - [x] Nozzle camera
     - [ ] Bed camera
 - [ ] Ultimaker
