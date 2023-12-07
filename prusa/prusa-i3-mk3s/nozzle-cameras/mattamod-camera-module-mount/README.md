@@ -78,8 +78,11 @@ We recommend printing in ASA, for thermal resistance, PLA will quickly warp due 
   6. Route the camera cable as you wish, see our fs-cable-router or lgx-cable-router components for reference. We usually route the cable into the Prusa's cable sleeve for tidiness. The longer cable listed is helpful to ensure there is enough length to connect to your Pi/Laptop.
   <br />
 </p>
+
+<!-- Lighting -->
+## Lighting (Example) 🔦
+
 <p>
-  <b>Lighting (Example)</b>
 
   The Prusa extruder occludes a lot of light, meaning the area under the nozzle is rather dark. To get around this, it is advantageous to build some kind of light source incident on the nozzle. 
   <br/>
